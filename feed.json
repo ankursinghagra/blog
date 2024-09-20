@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ankur Singh &#x27;s Blogs",
+    "description": "",
+    "home_page_url": "https://ankursinghagra.github.io/blog",
+    "feed_url": "https://ankursinghagra.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ankur Singh"
+    },
+    "items": [
+    ]
+}
