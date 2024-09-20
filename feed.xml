@@ -3,10 +3,30 @@
     <title>Ankur Singh &#x27;s Blogs</title>
     <link href="https://ankursinghagra.github.io/blog/feed.xml" rel="self" />
     <link href="https://ankursinghagra.github.io/blog" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2024-09-20T17:45:42+05:30</updated>
     <author>
         <name>Ankur Singh</name>
     </author>
     <id>https://ankursinghagra.github.io/blog</id>
 
+    <entry>
+        <title>Introductions</title>
+        <author>
+            <name>Ankur Singh</name>
+        </author>
+        <link href="https://ankursinghagra.github.io/blog/introductions.html"/>
+        <id>https://ankursinghagra.github.io/blog/introductions.html</id>
+
+        <updated>2024-09-20T17:45:42+05:30</updated>
+            <summary>
+                <![CDATA[
+                    testing 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>testing </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
